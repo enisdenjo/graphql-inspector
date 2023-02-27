@@ -1,5 +1,15 @@
 # @graphql-inspector/cli
 
+## 3.4.7
+
+### Patch Changes
+
+- Updated dependencies
+  [[`5cdc5ae9`](https://github.com/kamilkisiela/graphql-inspector/commit/5cdc5ae995df39f12b5a4731be488ff1aa2add08),
+  [`5cdc5ae9`](https://github.com/kamilkisiela/graphql-inspector/commit/5cdc5ae995df39f12b5a4731be488ff1aa2add08)]:
+  - @graphql-inspector/docs-command@3.4.3
+  - @graphql-inspector/serve-command@3.4.3
+
 ## 3.4.6
 
 ### Patch Changes
